@@ -65,7 +65,7 @@ function Footer() {
           <div class='footer-logo'>
             <Link to='/' className='social-logo'>
               Learnevate
-              <i class='fab fa-typo3' />
+              <i class="fas fa-chevron-up" />
             </Link>
           </div>
           <small class='website-rights'>Learnevate © 2021</small>
